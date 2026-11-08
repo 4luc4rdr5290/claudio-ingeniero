@@ -1,4 +1,6 @@
-# Claudio Ingeniero
+# CLAUDIO INGENIERO
+
+![Claudio Ingeniero: el robot armado sobre el escritorio](docs/claudio_ingeniero.png)
 
 > Un robot de escritorio que le da cuerpo a tu agente de IA para programar.
 
